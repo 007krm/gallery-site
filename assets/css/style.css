@@ -19,6 +19,7 @@ body{
     margin: 65px;
   }
   
+  /* Rotate Gallery */
   .gallery{
     position:relative;
     width:300px;
@@ -92,6 +93,7 @@ section .cards {
   text-align: center;
 }
 
+/* Footer */
 footer {
   color: rgb(255, 255, 255);
 }
