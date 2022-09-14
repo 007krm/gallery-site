@@ -81,6 +81,8 @@ section {
   grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
   grid-gap: 1rem;
   align-items: center;
+  display: flex;
+  flex-direction: column;
 }
 
 .cards {
