@@ -5,17 +5,18 @@
 }
 
 body{
+    background: url(../images/wood-background.jpg);
+    background-size: 100%;
     scroll-behavior: smooth;
     height:100vh;
     display: grid;
     place-items:center;
     grid-gap: 4rem;
-    background-color: rgb(0, 0, 0);
   }
 
   h1 {
-    color: rgb(144, 14, 14);
-    font-size: 55px;
+    color: antiquewhite;
+    font-size: 85px;
     margin: 65px;
   }
   
@@ -86,8 +87,8 @@ section {
 }
 
 section .cards {
-  color: rgb(255, 255, 255);
-  border: 1px solid #ffffff;
+  color: antiquewhite;
+  border: 1px solid antiquewhite;
   padding: 1em;
   margin: 2em;
   text-align: center;
